@@ -1,0 +1,6 @@
+com\mcent\app\model\UserModel.class
+com\mcent\app\resource\UserResource.class
+com\mcent\app\service\UserService.class
+com\mcent\app\model\UserModel$User.class
+com\mcent\app\Connection\ConnectionUtil.class
+com\mcent\app\model\Response.class
